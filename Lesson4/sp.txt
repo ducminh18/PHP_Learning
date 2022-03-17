@@ -1,0 +1,8 @@
+SP001#Iphone 5#10#https://didongmango.com/images/products/2019/12/01/large/iphone-5s-16gb-7-400x460_1575210474.png.png#1000000
+SP002#Iphone 5S#10#https://www.viettablet.com/images/detailed/25/iphone-5s.png#1500000
+SP003#Iphone 6#10#https://cdn.tgdd.vn/Products/Images/42/92962/iphone-6-32gb-gold-hh-600x600-600x600-600x600.jpg#1000000
+SP004#Iphone 6S#10#https://cdn.tgdd.vn/Products/Images/42/71306/iphone-6s-vang-hong-org-1.png#1300000
+SP005#Iphone 7#10#https://cdn.tgdd.vn/Products/Images/42/74110/iphone-7-gold-600x600-1-600x600.jpg#1600000
+SP006#Iphone 7 Plus#10#https://cdn.tgdd.vn/Products/Images/42/78124/iphone-7-plus-32gb-gold-600x600-600x600.jpg#1600000
+SP006#Iphone 8#10#https://cdn.tgdd.vn/Products/Images/42/114113/iphone-8-64gb-hh-600x600.jpg#1600000
+SP006#Iphone 8 Plus#10#https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-hh-600x600-600x600.jpg#1600000
